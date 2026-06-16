@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experiencias 2026 | Catálogo Interactivo</title>
+    <meta name="description" content="Catálogo interactivo de experiencias inmersivas, estructuras LED y tecnologías visuales de alto impacto para eventos corporativos.">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <div class="logo-container">
+                <img src="assets/logo.png" alt="Grosso Argentina Logo" class="logo-img" id="main-logo">
+            </div>
+            <h1>Experiencias 2026</h1>
+            <p class="subtitle">
+                Diseño inmersivo, tecnología avanzada y <span class="subtitle-span">arquitecturas visuales</span> a medida para eventos corporativos de alto impacto.
+            </p>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Floating/Sticky Category Navigation -->
+        <div class="category-nav-wrapper">
+            <nav class="category-nav" id="category-nav" aria-label="Navegación de categorías">
+                <!-- Dynamically populated categories buttons -->
+            </nav>
+        </div>
+
+        <!-- Catalog Sections Container -->
+        <div id="catalog-container">
+            <!-- Dynamically populated product sections and grids -->
+        </div>
+    </main>
+
+    <!-- Interactive Lightbox Modal -->
+    <div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Visualizador de imágenes">
+        <button class="lightbox-close" id="lightbox-close" aria-label="Cerrar visualizador">&times;</button>
+        <button class="lightbox-nav lightbox-prev" id="lightbox-prev" aria-label="Imagen anterior">&#10094;</button>
+        <button class="lightbox-nav lightbox-next" id="lightbox-next" aria-label="Imagen siguiente">&#10095;</button>
+        
+        <div class="lightbox-content">
+            <div class="lightbox-img-wrapper">
+                <img src="" alt="" class="lightbox-img" id="lightbox-img">
+            </div>
+            <div class="lightbox-details">
+                <h2 class="lightbox-caption" id="lightbox-caption">Título de la Imagen</h2>
+                <div class="lightbox-category" id="lightbox-category">Categoría</div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 GROSSO ARGENTINA. Todos los derechos reservados.</p>
+            <p>Especialistas en convertir la tecnología en emoción.</p>
+        </div>
+    </footer>
+
+    <!-- Load data first, then client logic -->
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
