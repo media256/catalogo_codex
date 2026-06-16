@@ -1,4 +1,4 @@
-// CATALOG DATABASE - Generated Automatically
+﻿// CATALOG DATABASE - Generated Automatically
 const CATALOG_DATA = [
   {
     "category": "Aéreos",
