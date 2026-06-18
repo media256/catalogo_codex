@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Section Title
             const title = document.createElement('h2');
             title.className = 'section-title';
-            title.innerHTML = `${catData.category} <span class="section-count">(${catData.products.length})</span>`;
+            title.textContent = catData.category;
             section.appendChild(title);
 
             // Products Grid
@@ -184,9 +184,12 @@ document.addEventListener('DOMContentLoaded', () => {
     lightboxPrev.addEventListener('click', () => navigateLightbox(-1));
     lightboxNext.addEventListener('click', () => navigateLightbox(1));
 
-    // Close on background click
+    // Close on background click/tap
     lightbox.addEventListener('click', (e) => {
-        if (e.target === lightbox) {
+        if (
+            e.target === lightbox ||
+            e.target.classList.contains('lightbox-content')
+        ) {
             closeLightbox();
         }
     });
