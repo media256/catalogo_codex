@@ -158,7 +158,7 @@ const CATALOG_DATA = [
       },
       {
         "name": "Back Premium",
-        "path": "assets/5-NUEVAS EXPERIENCIAS/3-BACK PREMIUN.png"
+        "path": "assets/5-NUEVAS EXPERIENCIAS/3-BACK PREMIUM.png"
       },
       {
         "name": "Back Radiant",
@@ -170,7 +170,7 @@ const CATALOG_DATA = [
       },
       {
         "name": "Back Premium Flex Neon",
-        "path": "assets/5-NUEVAS EXPERIENCIAS/6- BACK PREMIUN FLEX NEON.png"
+        "path": "assets/5-NUEVAS EXPERIENCIAS/6- BACK PREMIUM FLEX NEON.png"
       },
       {
         "name": "Gran Arco LED",
