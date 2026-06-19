@@ -268,7 +268,7 @@ const CATALOG_DATA = [
       },
       {
         "name": "Túnel Hexagonal + Barras Beampix",
-        "path": "assets/6-TUNELES/13-TUNEL HEXAGONAL + BARRAS BEAMPIX.png"
+        "path": "assets/6-TUNELES/13-TUNEL HEXAGONAL-BARRAS BEAMPIX.png"
       },
       {
         "name": "Túnel Estructural 3 X 2",
@@ -284,7 +284,7 @@ const CATALOG_DATA = [
       },
       {
         "name": "Grand Summit + ORBZ",
-        "path": "assets/6-TUNELES/17-GRAND SUMMIT + ORBZ.png"
+        "path": "assets/6-TUNELES/17-GRAND SUMMIT-ORBZ.png"
       }
     ]
   },
@@ -310,7 +310,7 @@ const CATALOG_DATA = [
       },
       {
         "name": "Back Espejado + ORBZ",
-        "path": "assets/7-PHOTO OPPORTUNITIES/5-BACK ESPEJADO + ORBZ.png"
+        "path": "assets/7-PHOTO OPPORTUNITIES/5-BACK ESPEJADO-ORBZ.png"
       },
       {
         "name": "Back Glamour",
@@ -332,11 +332,11 @@ const CATALOG_DATA = [
     "products": [
       {
         "name": "Cabina Espejada + ORBZ",
-        "path": "assets/8-PHOTO OPPORTUNITIES Y AMBIENTES PERSONALIZADOS/1-CABINA ESPEJADA + ORBZ.png"
+        "path": "assets/8-PHOTO OPPORTUNITIES Y AMBIENTES PERSONALIZADOS/1-CABINA ESPEJADA-ORBZ.png"
       },
       {
         "name": "Cubo Espejado + Tubos LED",
-        "path": "assets/8-PHOTO OPPORTUNITIES Y AMBIENTES PERSONALIZADOS/2-CUBO ESPEJADO + TUBOS LED.png"
+        "path": "assets/8-PHOTO OPPORTUNITIES Y AMBIENTES PERSONALIZADOS/2-CUBO ESPEJADO-TUBOS LED.png"
       },
       {
         "name": "Totems Con Caida",
@@ -380,7 +380,7 @@ const CATALOG_DATA = [
       },
       {
         "name": "Túnel Pantallas + Tubos LED",
-        "path": "assets/8-PHOTO OPPORTUNITIES Y AMBIENTES PERSONALIZADOS/13-TUNEL PANTALLAS + TUBOS LED.png"
+        "path": "assets/8-PHOTO OPPORTUNITIES Y AMBIENTES PERSONALIZADOS/13-TUNEL PANTALLAS-TUBOS LED.png"
       }
     ]
   },
@@ -398,11 +398,11 @@ const CATALOG_DATA = [
       },
       {
         "name": "Back Halo Cube + Blinders",
-        "path": "assets/9-CABINAS PARA DJ/3- BACK HALO CUBE + BLINDERS.png"
+        "path": "assets/9-CABINAS PARA DJ/3- BACK HALO CUBE-BLINDERS.png"
       },
       {
         "name": "Back Radiant + Flex Neon",
-        "path": "assets/9-CABINAS PARA DJ/4-BACK RADIANT + FLEX NEON.png"
+        "path": "assets/9-CABINAS PARA DJ/4-BACK RADIANT-FLEX NEON.png"
       },
       {
         "name": "Rueda Orbity",
@@ -410,7 +410,7 @@ const CATALOG_DATA = [
       },
       {
         "name": "Rueda Orbity + Fondo Curvo",
-        "path": "assets/9-CABINAS PARA DJ/6- RUEDA ORBITY + FONDO CURVO.png"
+        "path": "assets/9-CABINAS PARA DJ/6- RUEDA ORBITY-FONDO CURVO.png"
       },
       {
         "name": "Back Orbity Plane",
@@ -418,7 +418,7 @@ const CATALOG_DATA = [
       },
       {
         "name": "Back Aros LED + Coronas",
-        "path": "assets/9-CABINAS PARA DJ/8-BACK AROS LED + CORONAS.png"
+        "path": "assets/9-CABINAS PARA DJ/8-BACK AROS LED-CORONAS.png"
       },
       {
         "name": "Back Cuadrados Con Barras LED",
